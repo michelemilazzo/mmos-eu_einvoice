@@ -246,3 +246,4 @@ export_python_type_annotations = True
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
+frappe_version = ">=15.0.0,<17.0.0"
